@@ -1,3 +1,5 @@
+# Utilizing this script will void you from working on Blocks3D for 2 years, pick a project.
+
 I used bindiff and binexport to associate symbols from RBXGS to the equivalent roblox version, and made it compatible with x32dbg.
 
 grab the latest zip of binaries from the lessmsi repo:
@@ -27,5 +29,3 @@ The latest ghidra is broken with binexport, you'll need this one until binexport
 
 In order to use this, import it into your x32dbg under the file menu, then click this:
 <img src="image.png"/>
-
-# Utilizing this script will void you from working on Blocks3D for 2 years, pick a project.
