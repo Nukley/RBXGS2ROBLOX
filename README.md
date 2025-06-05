@@ -24,3 +24,6 @@ The latest ghidra is broken with binexport, you'll need this one until binexport
 <https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_11.3.1_build>
 
 **bindiff generates a confidence level for function matches, this completely ignores low confidence levels, meaning some functions might get incorrect names. Your mileage may vary.**
+
+In order to use this, import it into your x32dbg under the file menu, then click this:
+<img src="image.png"/>
